@@ -1,5 +1,5 @@
 -- t={}
--- print(getmetatable(t))    --得到元表
+
 
 -- mt={}
 -- setmetatable(t,mt)        --设置元表
