@@ -1,3 +1,4 @@
+--第一次修改上传的lua文件
 -- function createSprite(  )
 -- 	local Young={name="myname"}
 
